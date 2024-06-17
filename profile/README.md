@@ -31,7 +31,6 @@ Our bot has, among other things, a wide variety of ER:LC functions for your serv
 
 - [@Moritz](https://www.github.com/moritz1dev)
 - [@Dominik](https://www.github.com/domezocktgames1 )
-- [@Justus](https://www.github.com/drummerjuju)
 
 ## 🧾 Contact
 
