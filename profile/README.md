@@ -2,8 +2,7 @@
 
 Your bot for your Discord server! The all-rounder :D
 
-![Logo]([https://media.discordapp.net/attachments/1091767842552172666/1245810863374467133/Moddy_logo.png?ex=6671d647&is=667084c7&hm=c72c3003172ab072a2f082f01a0cb45376ed71cb830616f141a2f6b798b34998&=&format=webp&quality=lossless&width=905&height=905](https://media.discordapp.net/attachments/1091767842552172666/1245811006299570296/Moddy_klein.jpeg?ex=6671d669&is=667084e9&hm=5d01bf0dc51fa2f647b64f5b73fbb1d1d0e3ad8271f7d8af2723a3209ad1f98f&=&format=webp))
-
+![Logo](https://media.discordapp.net/attachments/1091767842552172666/1245726923796123698/aa88469f5e8ef7eddb0179d9819df6fd.png?ex=6671881b&is=6670369b&hm=86ebea7b61631c4169b8c23f1c2f76ec1dc708799abb49e353f0c5c19bcada5f&=&format=webp&quality=lossless)
 
 ## 🛠️ Moddy Features
 
